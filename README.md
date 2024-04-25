@@ -7,4 +7,5 @@ To repozytorium jest Twoim centrum materiałów edukacyjnych Rusta dostosowanych
 
 - [Rust lang](https://doc.rust-lang.org/book/)
 - [Rust by Practice](https://doc.rust-lang.org/book/)
+- [Prev rust lang](https://prev.rust-lang.org/pl-PL/documentation.html)
 - [In progress](https://in-progress.in-progress.in/) - to też w trakcie realizacji ;D.
