@@ -1,5 +1,5 @@
 # RustLab Resources
-To repozytorium jest Twoim centrum materiałów edukacyjnych Rusta dostosowanych do potrzeb studentów. Znajdziesz tutaj tutoriale, przykłady projektów i wyzwania związane z kodowaniem, które pomogą Ci poszerzyć Twoje umiejętności i wiedzę w zakresie Rusta. Zanurz się i odkrywaj!
+Znajdziesz tutaj tutoriale, przykłady projektów i wyzwania związane z kodowaniem, które pomogą Ci poszerzyć Twoje umiejętności i wiedzę w zakresie Rusta. Zanurz się i odkrywaj!
 
 # Baza linków
 
