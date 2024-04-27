@@ -4,7 +4,7 @@ fn main() {
     let unit: () = ();
 
     println!("size of unit = {}", size_of_val(&unit));
-    assert!(size_of_val(&unit) == 4);
+    assert!(size_of_val(&unit) == 0);
 
     println!("Success!");
 }
