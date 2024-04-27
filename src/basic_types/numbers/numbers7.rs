@@ -6,7 +6,7 @@ fn main() {
 
     println!("x = {}", type_of(&x));
 
-    assert_eq!(type_of(&x), "__".to_string());
+    assert_eq!(type_of(&x), "f64".to_string());
     println!("Success!");
 }
 
