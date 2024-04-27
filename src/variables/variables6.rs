@@ -4,13 +4,12 @@ fn main() {
     x = 7;
 
     // Shadowing and re-binding
-    let x = x;
     x += 3;
     println!("x = {}", x);
 
-    let y = 4;
+    let _y = 4;
     // Shadowing
-    let y = "I can also be bound to text!";
+    let _y = "I can also be bound to text!";
 
     println!("Success!");
 }
