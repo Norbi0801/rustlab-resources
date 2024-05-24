@@ -3,7 +3,7 @@ fn main() {
     let _v: () = ();
 
     let v = (2, 3);
-    assert_eq!(v, implicitly_ret_unit());
+    assert_eq!(_v, implicitly_ret_unit());
 
     println!("Success!");
 }
