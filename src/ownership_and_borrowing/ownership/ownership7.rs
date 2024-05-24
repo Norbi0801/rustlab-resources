@@ -1,7 +1,7 @@
 fn main() {
     let x = Box::new(5);
 
-    let ____
+    let mut y = Box::new(1); // or let y = &mut 1;
 
     *y = 4;
 

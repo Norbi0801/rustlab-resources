@@ -4,9 +4,11 @@ fn main() {
         sum += i
     }
 
-    assert!(sum == -3);
+    println!("sum = {}", sum); // -5
+
+    assert!(sum == -5);
 
     for c in 'a'..='z' {
-        println!("{}", c);
+        println!("{}", c as u32);
     }
 }

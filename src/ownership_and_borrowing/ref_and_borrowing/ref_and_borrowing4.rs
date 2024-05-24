@@ -2,7 +2,7 @@
 fn main() {
     let mut s = String::from("hello, ");
 
-    push_str(s);
+    push_str(&mut s);
 
     println!("Success!");
 }

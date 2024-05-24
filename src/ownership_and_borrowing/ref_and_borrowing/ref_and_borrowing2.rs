@@ -3,7 +3,7 @@ fn main() {
     let y = &x;
 
     // Modify this line only
-    assert_eq!(5, y);
+    assert_eq!(5, *y);
 
     println!("Success!");
 }

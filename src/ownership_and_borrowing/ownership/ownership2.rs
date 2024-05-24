@@ -9,4 +9,5 @@ fn main() {
 // Only modify the code below!
 fn take_ownership(s: String) -> String {
     println!("{}", s);
+    s
 }

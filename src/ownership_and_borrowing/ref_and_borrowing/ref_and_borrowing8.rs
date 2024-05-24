@@ -1,6 +1,6 @@
 fn main() {
     // Fix error by modifying this line
-    let s = String::from("hello, ");
+    let mut s = String::from("hello, ");
 
     borrow_object(&mut s);
 

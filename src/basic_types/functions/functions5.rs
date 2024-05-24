@@ -1,6 +1,6 @@
 fn main() {
     // FILL in the blank
-    let b = __;
+    let b = false;
 
     let _v = match b {
         true => 1,
